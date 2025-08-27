@@ -31,12 +31,10 @@
             $num1 = $_GET["num1"];
             $num2 = $_GET["num2"];
 
-            // Addition function
             function add($a, $b) {
                 return $a + $b;
             }
 
-            // Subtraction function
             function subtract($a, $b) {
                 return $a - $b;
             }
@@ -60,4 +58,5 @@
             }
     ?>
 </body>
+
 </html>
